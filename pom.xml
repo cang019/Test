@@ -70,8 +70,8 @@
 
 		<dependency>
 		    <groupId>org.mozilla.components</groupId>
-		    <artifactId>engine</artifactId>
-		    <version>0.26.0</version>
+		    <artifactId>ktx</artifactId>
+		    <version>0.27.0</version>
 		</dependency> 
 
   </dependencies>
