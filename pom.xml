@@ -75,10 +75,10 @@
 		</dependency>
 	  
 		<dependency>
-    <groupId> org.apache.tomcat </groupId>
-    <artifactId>tomcat-dbcp</artifactId>
-    <version>7.0.30</version>
-</dependency>
+    <groupId>com.atlassian.browsers</groupId>
+    <artifactId>firefox-profile</artifactId>
+    <version>38.0</version>
+</dependency
 	  
   </dependencies>
 </project>
