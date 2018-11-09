@@ -69,7 +69,7 @@
 		</dependency>
 
 		<dependency>
-		    <groupId>tomcat</groupId>
+		    <groupId> org.apache.tomcat </groupId>
 		    <artifactId>tomcat-dbcp</artifactId>
 		    <version>7.0.30</version>
 		</dependency> 
