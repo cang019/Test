@@ -60,10 +60,11 @@
 		</dependency>-->
 	  
 <!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-core -->
+<!-- https://mvnrepository.com/artifact/org.wildfly.core/wildfly-server -->
 <dependency>
-    <groupId>org.apache.activemq</groupId>
-    <artifactId>activemq-core</artifactId>
-    <version>5.7.0</version>
+    <groupId>org.wildfly.core</groupId>
+    <artifactId>wildfly-server</artifactId>
+    <version>6.0.2.Final</version>
 </dependency>
 
 
