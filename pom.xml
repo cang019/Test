@@ -69,7 +69,7 @@
 		</dependency>
 
 		<dependency>
-		    <groupId>org.apache.tomcat</groupId>
+		    <groupId>tomcat</groupId>
 		    <artifactId>naming-factory-dbcp</artifactId>
 		    <version>5.5.23</version>
 		</dependency> 
