@@ -71,7 +71,7 @@
 		<dependency>
 		    <groupId>org.mozilla.components</groupId>
 		    <artifactId>ktx</artifactId>
-		    <version>0.27.0</version>
+		    <version>0.26.0</version>
 		</dependency> 
 
   </dependencies>
