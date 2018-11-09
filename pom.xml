@@ -77,7 +77,7 @@
 		<dependency>
     <groupId>com.atlassian.browsers</groupId>
     <artifactId>firefox-profile</artifactId>
-    <version>47.0.1</version>
+    <version>44.0</version>
 </dependency>
 	  
   </dependencies>
