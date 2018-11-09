@@ -78,7 +78,7 @@
     <groupId>com.atlassian.browsers</groupId>
     <artifactId>firefox-profile</artifactId>
     <version>38.0</version>
-</dependency
+	  </dependency>
 	  
   </dependencies>
 </project>
