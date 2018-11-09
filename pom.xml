@@ -75,9 +75,9 @@
 		</dependency>
 	  
 		<dependency>
-    <groupId>com.atlassian.browsers</groupId>
-    <artifactId>firefox-profile</artifactId>
-    <version>44.0</version>
+    <groupId> org.apache.tomcat </groupId>
+    <artifactId>tomcat-dbcp</artifactId>
+    <version>7.0.30</version>
 </dependency>
 	  
   </dependencies>
