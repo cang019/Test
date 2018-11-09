@@ -69,9 +69,9 @@
 		</dependency>
 
 		<dependency>
-		    <groupId>tomcat</groupId>
-		    <artifactId>naming-factory-dbcp</artifactId>
-		    <version>5.5.23</version>
+		    <groupId>org.apache.solr</groupId>
+		    <artifactId>solr-solrj</artifactId>
+		    <version>4.2.0</version>
 		</dependency> 
 
   </dependencies>
