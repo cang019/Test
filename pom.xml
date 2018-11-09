@@ -63,7 +63,7 @@
    			<groupId>org.jboss.eap</groupId>
     			<artifactId>wildfly-feature-pack</artifactId>
     			<version>7.0.9.GA-redhat-3</version>
-<		/dependency>
+		</dependency>
 	  
   </dependencies>
 </project>
