@@ -59,10 +59,12 @@
 			<scope>test</scope>
 		</dependency>-->
 <dependency>
-    <groupId>com.atlassian.browsers</groupId>
-    <artifactId>firefox</artifactId>
-    <version>47.0.1</version>
+    <groupId>org.mozilla.components</groupId>
+    <artifactId>ktx</artifactId>
+    <version>0.27.0</version>
+    <scope>runtime</scope>
 </dependency>
+
 
 
   </dependencies>
