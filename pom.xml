@@ -59,10 +59,10 @@
 			<scope>test</scope>
 		</dependency>-->
 	  
-<!-- https://mvnrepository.com/artifact/org.apache.sling/org.apache.sling.settings -->
+<!-- https://mvnrepository.com/artifact/org.apache.sling/org.apache.sling.models.api -->
 <dependency>
     <groupId>org.apache.sling</groupId>
-    <artifactId>org.apache.sling.settings</artifactId>
+    <artifactId>org.apache.sling.models.api</artifactId>
     <version>1.0.0</version>
     <scope>provided</scope>
 </dependency>
