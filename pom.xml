@@ -59,10 +59,9 @@
 			<scope>test</scope>
 		</dependency>-->
 <dependency>
-    <groupId>org.mozilla.components</groupId>
-    <artifactId>ktx</artifactId>
-    <version>0.27.0</version>
-    <scope>runtime</scope>
+    <groupId>org.apache.tomcat</groupId>
+    <artifactId>tomcat-servlet-api</artifactId>
+    <version>7.0.55</version>
 </dependency>
 
 
