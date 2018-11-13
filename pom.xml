@@ -59,9 +59,9 @@
 			<scope>test</scope>
 		</dependency>-->
 <dependency>
-    <groupId>org.apache.cxf</groupId>
-    <artifactId>cxf-rt-frontend-jaxws</artifactId>
-    <version>3.1.14</version>
+    <groupId>io.undertow</groupId>
+    <artifactId>undertow-servlet</artifactId>
+    <version>1.4.10.Final</version>
 </dependency>
 
 
